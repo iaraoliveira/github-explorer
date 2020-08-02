@@ -1,4 +1,8 @@
-# Github Explorer
+<div align="center">
+  <img src="./src/assets/logo.svg" alt="Github Explorer" width="250"/>
+</div>
+
+<br/>
 
 ### ( :hammer: This project is under construction.)
 
